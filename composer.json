@@ -1,0 +1,16 @@
+{
+    "name": "thomd729/RandomNumberGenerator",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Thomd729\\Random\\": "classes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Thomd209",
+            "email": "thomd209@gmail.com"
+        }
+    ],
+    "require": {}
+}

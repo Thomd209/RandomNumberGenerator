@@ -1,0 +1,15 @@
+.link-generate, .title-generate, .form-generate, .table-generate, .error {
+    margin: 10px 20px;
+}
+
+.table-generate {
+    width: 30%;
+}
+
+.link-search, .title-search, .form-search, .table-search {
+    margin: 10px 20px;
+}
+
+.table-search {
+    width: 30%;
+}
